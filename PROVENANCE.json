@@ -1,0 +1,164 @@
+{
+  "archived_files": [
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_lewm_qualification_2026_10_20/qualify_full_model.py",
+      "sha256": "cf77a53c4dcc0108a747898959ce5d56746ccb4be0132d33af88a69f772a233d",
+      "source_relative_path": "scripts/world_model_supplied_lewm_qualification_2026_10_20/qualify_full_model.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_lewm_qualification_2026_10_20/saved_qualification_audit.py",
+      "sha256": "bd8e2f0ff4c8a46047735d7832d2cc1003b24724d521a325324ed0808cf7c1be",
+      "source_relative_path": "scripts/world_model_supplied_lewm_qualification_2026_10_20/saved_qualification_audit.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_lewm_qualification_2026_10_20/entry.py",
+      "sha256": "b229c9711fefb2de4fe26938388a1817850c1ee821ba44b2b8f58e4b6c1740e3",
+      "source_relative_path": "scripts/world_model_supplied_lewm_qualification_2026_10_20/entry.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_lewm_control_2026_10_20/saved_control_audit.py",
+      "sha256": "d85d3d740c7a96fe5fba11dd45fb7f35f593dfb20c9a63b0e2d009d73f5a619d",
+      "source_relative_path": "scripts/world_model_supplied_lewm_control_2026_10_20/saved_control_audit.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_lewm_control_2026_10_20/saved_failure_diagnostic.py",
+      "sha256": "15566b241a5f75bdf89f0e718b91245a347a36dbabe3262ff900464271b198f6",
+      "source_relative_path": "scripts/world_model_supplied_lewm_control_2026_10_20/saved_failure_diagnostic.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_lewm_control_2026_10_20/relative_executor.py",
+      "sha256": "baf1dc572308672bfc34b7cc1bc4cb4c85d43fad4714328ac611c02b9e7848b8",
+      "source_relative_path": "scripts/world_model_supplied_lewm_control_2026_10_20/relative_executor.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_lewm_control_2026_10_20/serving.py",
+      "sha256": "4c8af572d432420722dcc97ac93baebe8068ac0f9c3b66d9aceb08b5bec0ad0b",
+      "source_relative_path": "scripts/world_model_supplied_lewm_control_2026_10_20/serving.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_lewm_control_2026_10_20/entry.py",
+      "sha256": "2b9c767fddfb2d282589d07d13ec2202a9a6fc8131325500e68032a235249e5f",
+      "source_relative_path": "scripts/world_model_supplied_lewm_control_2026_10_20/entry.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_lewm_control_2026_10_20/control_driver.py",
+      "sha256": "848e0e5593b741da9d5cbeb921d2e81fa2c30bb1fada1ebe22881dd7a53c23b7",
+      "source_relative_path": "scripts/world_model_supplied_lewm_control_2026_10_20/control_driver.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_transition_audit_2026_10_20/saved_transition_audit.py",
+      "sha256": "25d9138fa234a1288195376e6dd8acdc859bf195eef11e7080034e497f2808ce",
+      "source_relative_path": "scripts/world_model_supplied_transition_audit_2026_10_20/saved_transition_audit.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_transition_audit_2026_10_20/entry.py",
+      "sha256": "bb0575a8eb1ba86db54643c5ca5ff5acdb0917ab41f4f2869b166dbe22454d1c",
+      "source_relative_path": "scripts/world_model_supplied_transition_audit_2026_10_20/entry.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_supplied_transition_audit_2026_10_20/audit_transitions.py",
+      "sha256": "9dfdaa4088e5f01dd37ca4a2e343f75a9b0e2aee59ce128daf5295b49f510bb2",
+      "source_relative_path": "scripts/world_model_supplied_transition_audit_2026_10_20/audit_transitions.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_visual_transfer_2026_10_19/data_adapter.py",
+      "sha256": "2b44f1f171fc813c3341f71e6d220867a78f4efb62e3644af9d5927f13e5a442",
+      "source_relative_path": "scripts/world_model_visual_transfer_2026_10_19/data_adapter.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "archive/scripts/world_model_visual_transfer_2026_10_19/feature_cache_small.py",
+      "sha256": "ad854db4f5800fc55fa67f8414b683a9e50afc29f82cafe6f6d660d69137bb2a",
+      "source_relative_path": "scripts/world_model_visual_transfer_2026_10_19/feature_cache_small.py"
+    },
+    {
+      "copy": "verbatim",
+      "path": "evidence/qualification/RESULTS_REPORT.md",
+      "sha256": "1866a85ed24608e5bdf413e532bf85bfb6d54f076bfcdfbc71151602be52992a",
+      "source_relative_path": "reports/world_model_supplied_lewm_qualification_2026_10_20/RESULTS_REPORT.md"
+    },
+    {
+      "copy": "verbatim",
+      "path": "evidence/qualification/SUMMARY.json",
+      "sha256": "82aa26e704003a02c9c7603fcf425f9ffc1287d9a9a60ea68de185ac5cf5dde7",
+      "source_relative_path": "results/world_model_supplied_lewm_qualification_2026_10_20/SUMMARY.json"
+    },
+    {
+      "copy": "verbatim",
+      "path": "evidence/control/RESULTS_REPORT.md",
+      "sha256": "ca5e30a526ba2a995f0723a1acd391ef082ddcc1cfdaa6cbd100a12bc33bc871",
+      "source_relative_path": "reports/world_model_supplied_lewm_control_2026_10_20/RESULTS_REPORT.md"
+    },
+    {
+      "copy": "verbatim",
+      "path": "evidence/control/SUMMARY.json",
+      "sha256": "7aee5a459d73eb2d80539060f2c1f78816ca05ca1555c92b51bded5fb2046e64",
+      "source_relative_path": "results/world_model_supplied_lewm_control_2026_10_20/SUMMARY.json"
+    },
+    {
+      "copy": "verbatim",
+      "path": "evidence/transition/RESULTS_REPORT.md",
+      "sha256": "d99115bf29b18b911c5effa55fbb9e81f29dbe0c27de93faadedb6bce78c83a0",
+      "source_relative_path": "reports/world_model_supplied_transition_audit_2026_10_20/RESULTS_REPORT.md"
+    },
+    {
+      "copy": "verbatim",
+      "path": "evidence/transition/SUMMARY.json",
+      "sha256": "5ef9b9800cc00f4bd5ab90a09beb813c64ede52514dd58ebb92c52ed1f016a67",
+      "source_relative_path": "results/world_model_supplied_transition_audit_2026_10_20/SUMMARY.json"
+    },
+    {
+      "copy": "verbatim",
+      "path": "evidence/DINO_SOURCE_STATS_ADAPTATION_ADDENDUM.md",
+      "sha256": "3e1761ef924dfa24549cf90b9ec3a47d4304b125e00629659fb0af20269e2ff2",
+      "source_relative_path": "reports/world_model_external_action_normalization_readiness_2026_10_20/DINO_SOURCE_STATS_ADAPTATION_ADDENDUM.md"
+    }
+  ],
+  "extracted_arithmetic": {
+    "cem_block": {
+      "first_line": 215,
+      "last_line": 256,
+      "source_function": "query_check",
+      "verbatim_sha256": "b10d04d3261a799aa56375f8ed42011fbae5c3d9522435c81b53ac1c9c4b7a69",
+      "wrapper_changes": [
+        "Function renamed audit_cem_arrays with explicit np/data/rngs/previous_selected arguments",
+        "Removed archived file, hash receipt, memory and marker I/O checks before this block",
+        "Returns selected action knots; numerical audit statements unchanged"
+      ]
+    },
+    "functions": {
+      "norm": {
+        "first_line": 106,
+        "last_line": 107,
+        "verbatim_sha256": "d3f51b9ffcd6f6e4874f79197c2e81741b292c273393e56c385b99023a5bf80a"
+      },
+      "shape_dtype": {
+        "first_line": 114,
+        "last_line": 115,
+        "verbatim_sha256": "8f0acebb0b9beaf8ff859de7fa5a9366b6772a363d97027c4908909909fcffd0"
+      },
+      "unnorm": {
+        "first_line": 110,
+        "last_line": 111,
+        "verbatim_sha256": "82e8bdee8adc6b63ef290ef61b1a018019e67a19971b86c99fc83258d2619b52"
+      }
+    },
+    "source_relative_path": "scripts/world_model_supplied_lewm_qualification_2026_10_20/saved_qualification_audit.py",
+    "source_sha256": "bd8e2f0ff4c8a46047735d7832d2cc1003b24724d521a325324ed0808cf7c1be"
+  },
+  "original_project": "JEPA4M local research tree",
+  "source_root_is_not_distributed": true
+}
